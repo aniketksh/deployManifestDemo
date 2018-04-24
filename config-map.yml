@@ -3,7 +3,7 @@ data:
   game.properties: |
     enemies=aliens
     lives=3
-    enemies.cheat=true
+    enemies.cheat=false
     enemies.cheat.level=noGoodRotten
     secret.code.passphrase=UUDDLRLRBABAS
     secret.code.allowed=true
